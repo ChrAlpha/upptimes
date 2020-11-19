@@ -1,42 +1,26 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "Blog",
+    "url": "https://blog.ichr.me",
+    "slug": "blog",
     "status": "up",
     "uptime": "100.00",
-    "time": 88
+    "time": 70
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "Theme Cards Site",
+    "url": "https://theme-cards.ichr.me",
+    "slug": "theme-cards-site",
     "status": "up",
     "uptime": "100.00",
-    "time": 135
+    "time": 104
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "Personal Homepage",
+    "url": "https://ichr.me",
+    "slug": "personal-homepage",
     "status": "up",
     "uptime": "100.00",
-    "time": 339
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "99.96",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 49
+    "time": 56
   }
 ]
