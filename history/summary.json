@@ -4,23 +4,23 @@
     "url": "https://blog.ichr.me",
     "slug": "blog",
     "status": "up",
-    "uptime": "100.00",
-    "time": 71
+    "uptime": "100.00%",
+    "time": 72
   },
   {
     "name": "Theme Cards Site",
     "url": "https://theme-cards.ichr.me",
     "slug": "theme-cards-site",
     "status": "up",
-    "uptime": "100.00",
-    "time": 76
+    "uptime": "100.00%",
+    "time": 74
   },
   {
     "name": "Personal Homepage",
     "url": "https://ichr.me",
     "slug": "personal-homepage",
     "status": "up",
-    "uptime": "100.00",
+    "uptime": "100.00%",
     "time": 82
   }
 ]
