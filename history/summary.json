@@ -5,7 +5,15 @@
     "slug": "blog",
     "status": "up",
     "uptime": "100.00%",
-    "time": 94
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 94,
+    "timeDay": 81,
+    "timeWeek": 94,
+    "timeMonth": 94,
+    "timeYear": 94
   },
   {
     "name": "Theme Cards Site",
@@ -13,7 +21,15 @@
     "slug": "theme-cards-site",
     "status": "up",
     "uptime": "100.00%",
-    "time": 89
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 89,
+    "timeDay": 83,
+    "timeWeek": 80,
+    "timeMonth": 89,
+    "timeYear": 89
   },
   {
     "name": "Personal Homepage",
@@ -21,6 +37,14 @@
     "slug": "personal-homepage",
     "status": "up",
     "uptime": "100.00%",
-    "time": 117
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 116,
+    "timeDay": 81,
+    "timeWeek": 140,
+    "timeMonth": 116,
+    "timeYear": 116
   }
 ]
