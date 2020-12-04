@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 94,
-    "timeDay": 81,
-    "timeWeek": 94,
-    "timeMonth": 94,
-    "timeYear": 94
+    "time": 93,
+    "timeDay": 84,
+    "timeWeek": 85,
+    "timeMonth": 93,
+    "timeYear": 93
   },
   {
     "name": "Theme Cards Site",
@@ -26,8 +26,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 89,
-    "timeDay": 83,
-    "timeWeek": 80,
+    "timeDay": 84,
+    "timeWeek": 79,
     "timeMonth": 89,
     "timeYear": 89
   },
@@ -41,10 +41,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 116,
-    "timeDay": 81,
-    "timeWeek": 140,
-    "timeMonth": 116,
-    "timeYear": 116
+    "time": 128,
+    "timeDay": 319,
+    "timeWeek": 169,
+    "timeMonth": 128,
+    "timeYear": 128
   }
 ]
