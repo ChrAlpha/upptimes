@@ -40,17 +40,19 @@
     "url": "https://ichr.me",
     "icon": "https://favicons.githubusercontent.com/ichr.me",
     "slug": "personal-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 98,
-    "timeDay": 88,
-    "timeWeek": 120,
-    "timeMonth": 110,
-    "timeYear": 98,
-    "dailyMinutesDown": {}
+    "time": 97,
+    "timeDay": 78,
+    "timeWeek": 113,
+    "timeMonth": 109,
+    "timeYear": 97,
+    "dailyMinutesDown": {
+      "2021-02-10": 0
+    }
   }
 ]
